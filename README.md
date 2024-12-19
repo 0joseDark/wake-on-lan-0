@@ -1,6 +1,6 @@
 # wake-on-lan-0
 - [modulos](https://github.com/0joseDark/wake-on-lan-0/blob/main/modulo-wake-on-lan.md)
- wake-on-lan with the module wol
+- wake-on-lan with the module wol
  Aqui está o script modificado para usar o módulo `wol` no lugar de `wakeonlan`. Inclui comentários passo a passo e explicações detalhadas.
 
 ### Explicação Passo a Passo:
