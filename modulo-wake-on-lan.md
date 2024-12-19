@@ -1,7 +1,3 @@
-Abaixo está uma lista em formato Markdown contendo **todos os módulos e ferramentas relacionados ao Wake-on-LAN**, com explicações, exemplos de uso e compatibilidade com **Windows 10 em português europeu**.
-
----
-
 # Lista de Módulos e Ferramentas de Wake-on-LAN
 
 ## 1. **`pywakeonlan`**
